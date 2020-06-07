@@ -1,0 +1,19 @@
+translated to English via Google Translate
+
+1. AddDllDirectory and RemoveDllDirectory functions cause team viewer bug (not implemented)
+2. Wow64EnableWow64FsRedirection, Wow64DisableWow64FsRedirection and Wow64RevertWow64FsRedirection functions cause an error in the installation of VIsual Studio 2010. Review their implementation and installation of VIsual C ++ 2012+ (Solved)
+3. GetSystemFirmwareTable function implemented causes skype overuse of processor
+4. Chome and Opera become irresponsible after a few seconds or minutes of use
+5. Windows media Player using crasha "forward music" button
+6. Installers do not create shortcuts
+7. PES 2015 Keep trying to "establish communications" forever
+8. GPSVC is restarting all the time
+9. Steam games are crashing
+10. Firefox 50 when going to home page when starting, crash
+11. Internet Explorer 8 restores tab at all times
+12. Very strange behavior with MPC and K-lite codec
+13. Tabs in Chrome are crashing;
+14. Adobe Flash Player crashing;
+15. Google Drive crash when starting
+16. Bcrypt.dll from Vista cause error with skype
+17. Combase.dll - Cause error with .net 4.5 application
